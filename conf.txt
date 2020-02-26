@@ -1,1 +1,2 @@
 my_branch1
+master
